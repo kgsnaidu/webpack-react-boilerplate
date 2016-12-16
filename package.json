@@ -4,7 +4,7 @@
   "description": "Simple Webpack React Boilerplate",
   "main": "app.js",
   "scripts": {
-    "test": "start"
+    "start": "webpack-dev-server"
   },
   "repository": {
     "type": "git",
